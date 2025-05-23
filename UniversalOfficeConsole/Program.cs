@@ -10,6 +10,8 @@ namespace UniversalOfficeConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Project in development.");
+            Console.ReadKey();
         }
     }
 }
