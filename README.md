@@ -21,7 +21,7 @@ git clone https://github.com/foxlye/UniversalOffice.git
 ### Download release
 Download release from GitHub
 ```Steps
-1) Press "Release" subtab.
+1) Press "Releases" subtab.
 2) Download latest release.
 ```
 
