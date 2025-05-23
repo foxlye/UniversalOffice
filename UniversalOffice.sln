@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalOfficeConsole", "UniversalOfficeConsole\UniversalOfficeConsole.csproj", "{2AD702B9-D35D-406B-A463-7013E7FD7B8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalOfficeLibrary", "UniversalOfficeLibrary\UniversalOfficeLibrary.csproj", "{CC52994F-C866-478B-AFC1-329F986F7F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalOfficeGUI", "UniversalOfficeGUI\UniversalOfficeGUI.csproj", "{9E7A5CDE-2B42-4228-83FD-925D8A0B9CEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CC52994F-C866-478B-AFC1-329F986F7F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC52994F-C866-478B-AFC1-329F986F7F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC52994F-C866-478B-AFC1-329F986F7F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7A5CDE-2B42-4228-83FD-925D8A0B9CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7A5CDE-2B42-4228-83FD-925D8A0B9CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7A5CDE-2B42-4228-83FD-925D8A0B9CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7A5CDE-2B42-4228-83FD-925D8A0B9CEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
