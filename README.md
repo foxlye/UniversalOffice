@@ -10,7 +10,7 @@ This utility is designed to automatically download and deploy the MS Office appl
 ## Support Products
 | MS Office Version  | Download | Activation |
 | ------------- | ------------- | ---------- |
-| Office 2016 Pro Plus  | ❌  | ✅
+| Office 2016 Pro Plus  | ❌  | ❌
 
 Support will be added in future updates.
 

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using UniversalOfficeLibrary;
 
 namespace UniversalOfficeConsole
 {
@@ -10,6 +7,9 @@ namespace UniversalOfficeConsole
     {
         static void Main(string[] args)
         {
+            Console.Title = "UniversalOffice";
+            CLogger logger = new CLogger("log.txt");
+            Console.ReadKey();
         }
     }
 }
