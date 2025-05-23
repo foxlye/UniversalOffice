@@ -5,7 +5,22 @@ namespace UniversalOfficeLibrary
 {
     public class COffice
     {
-        static public bool bypass_geoblock()
+        public COffice()
+        {
+            // TODO (Constructor with data for download office by Office Deployment Tool)
+        }
+
+        public void Download_office_deployment_tool()
+        {
+            // TODO (Download Office Deployment Tool from official MS website)
+        }
+
+        public void Download_office_by_tool()
+        {
+            // TODO (Initialize download office from tool)
+        }
+
+        static public bool Bypass_geoblock()
         {
             try
             {
@@ -18,11 +33,11 @@ namespace UniversalOfficeLibrary
             }
         }
 
-        static bool bypass_not_genuine_msg()
+        static bool Bypass_not_genuine_msg()
         {
             try
             {
-                //TODO
+                // TODO
                 return true;
             }
             catch(Exception ex)
