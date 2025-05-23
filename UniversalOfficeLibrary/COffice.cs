@@ -17,5 +17,18 @@ namespace UniversalOfficeLibrary
                 throw ex;
             }
         }
+
+        static bool bypass_not_genuine_msg()
+        {
+            try
+            {
+                //TODO
+                return true;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
