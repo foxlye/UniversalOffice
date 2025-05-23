@@ -9,8 +9,7 @@ namespace UniversalOfficeLibrary
         {
             try
             {
-                RegistryKey rg_key = Registry.CurrentUser.CreateSubKey(@"HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs");
-                rg_key.SetValue("CountryCode", "std::wstring|US");
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs", "CountryCode", "US");
                 return true;
             }
             catch(Exception ex)
@@ -18,8 +17,5 @@ namespace UniversalOfficeLibrary
                 throw ex;
             }
         }
-
-
-
     }
 }
