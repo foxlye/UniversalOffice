@@ -28,7 +28,7 @@ Download release from GitHub
 ## Support Products
 | MS Office Version  | Download | Activation |
 | ------------- | ------------- | ---------- |
-| Office 2016 Pro Plus  | ❌  | ❌
+|   |   | 
 
 Support will be added in future updates.
 
