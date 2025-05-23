@@ -16,7 +16,7 @@ Support will be added in future updates.
 
 ## Minimum Requirements
 - OS: Windows 7 SP1 and newer.
-- SDK: Net Framework 4.7.1
+- SDK: Net Framework 4.7.2
 ## Authors
 
 - [@foxlye](https://www.github.com/foxlye)
